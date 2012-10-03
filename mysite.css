@@ -1,0 +1,89 @@
+@font-face {
+    font-family: 'Museo Slab';
+    src: url('Font/Museo_Slab_500-webfont.eot');
+    src: url('Font/Museo_Slab_500-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Font/Museo_Slab_500-webfont.woff') format('woff'),
+         url('Font/Museo_Slab_500-webfont.ttf') format('truetype'),
+         url('Font/Museo_Slab_500-webfont.svg#MuseoSlab500Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+header a:hover {
+  color: #31312D ;
+  background-color: tan ;}
+
+header h1:hover {
+  color: #31312D ;
+  background-color:tan;
+}
+
+#socialmedia {text-align: center;}
+#socialmedia a {
+  background-color: none;
+  position:relative;
+  -webkit-transition: top 0.25s linear;
+  -moz-transition: top 0.25s linear;
+  -o-transition: top 0.25s linear;
+}
+
+#socialmedia a:hover {
+  top: -5px;
+}
+
+  a { color: teal; background: cornsilk; text-decoration: none; }
+
+#socialmedia img{
+    width: 30px;
+    height: 30px;
+    border: 5px solid #ccc;
+}
+
+#maintext {
+
+  background: bisque url("images/pealemammoth.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;}
+  
+  h1{  background: cornsilk; font-size: 200%;
+    text-align: center;}
+
+  body { color: #444; 
+    background: cornsilk;
+    width:700px; 
+    margin: 50px auto; 
+    font-family: 'Museo Slab', serif;
+    padding: 20px;
+
+    border-radius: 20px;
+    color: dimgray;
+  }
+
+    .contact {text-align: center;}
+
+
+header {text-align: center;}
+header img{margin-bottom: 20px; border-radius: 20px;}
+img {border-radius: 20px}
+header nav{display:block;}
+
+nav ul {list-style: none; margin-left: 0; padding-left: 0}
+
+nav li {display:inline-block;}
+
+nav a {padding: 5px 15px;}
+
+
+
+h2{ color: #484843; background: cornsilk; 
+  font-size: 150%}
+
+h3{ color: #484843; background: cornsilk; text-align: center; text-transform: uppercase;}
+
+h4{ color: #2E2D1F; background: cornsilk; 
+    text-align: center;}
+
+h5{text-align: center;}
